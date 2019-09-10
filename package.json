@@ -1,0 +1,17 @@
+{
+  "name": "atdd-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "codeceptjs run --steps"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@wdio/selenium-standalone-service": "^5.12.1",
+    "codeceptjs": "^2.3.1",
+    "webdriverio": "^5.12.5"
+  }
+}
